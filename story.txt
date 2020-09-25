@@ -1,1 +1,4 @@
-
+Each time, the moment he stepped into the tavern, all the customers would yell:
+"Liangqi Cai, you got a new bug in your program!" He never answered them, he only
+spoke to the waiter behind the counter:'Stack overflow and GeeksforGeeks.' He then
+opened 11 websites. The customers then intentionally raised their voices:"  
