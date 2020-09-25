@@ -1,9 +1,8 @@
 Each time, the moment he stepped into the tavern, all the customers would yell:
 "Liangqi Cai, you got a new bug in your program!" He never answered them, he only
 spoke to the waiter behind the counter:'Stack overflow and GeeksforGeeks.' He then
-opened 11 websites. The customers then intentionally raised their voices:"  
+opened 11 websites. The customers then intentionally raised their voices:"  -- written by Liangqi Cai
 
-“You must have copied the code from your roommate!” 
-Liangqi Cai stared at the customer and yell: 
-”How can you vilify me! I’m innocent!” 
-“What innocence? I saw you copying your roommate’s code while he was sleeping.” 
+"are you tring to find the solution on webistes? Hope you will not let more bugs 
+exist in your program." He said nothing and just watched the sreen. His expression 
+looked like he know how to solve the bug, and he said:" -- written by Zhiwei Cao
