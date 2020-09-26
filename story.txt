@@ -6,3 +6,8 @@ opened 11 websites. The customers then intentionally raised their voices:"  -- w
 "are you tring to find the solution on webistes? Hope you will not let more bugs 
 exist in your program." He said nothing and just watched the sreen. His expression 
 looked like he know how to solve the bug, and he said:" -- written by Zhiwei Cao
+
+“It’s just a piece of cake, I will fix the bug in a minute.” After trying different 
+solutions on different websites, Liangqi fixed the bug in the end. “Be more careful 
+when you write code next time.” said the customers. Liangqi heaved a sigh of relief 
+and left the tavern. -- wirtten by Yunzhao Liu
